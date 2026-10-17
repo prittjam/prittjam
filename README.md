@@ -4,7 +4,7 @@ Researcher at [Kiel University](https://www.uni-kiel.de/) working on geometric c
 
 **Software** — the [Visual Geometry Toolkit](https://github.com/VisualGeometryToolkit), Julia packages for multi-view geometry, robust estimation and features, with the code of each paper below in its own repository.
 
-**Recent papers**
+**Selected publications**
 
 | | |
 |---|---|
